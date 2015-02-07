@@ -1,0 +1,15 @@
+name: The IIITV blog
+description: Blog maintained by IIITV students
+meta_description: "Blog maintained by IIITV students"
+
+markdown: redcarpet
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://iiitv.github.io'
+google_analytics: ''
+
+# Details for the RSS feed generator
+url:            'http://iiitv.github.io'
+author:         'IIITV'
