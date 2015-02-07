@@ -8,6 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://iiitv.github.io'
+permalink: /:year/:month/:day/:title
 google_analytics: ''
 
 # Details for the RSS feed generator
