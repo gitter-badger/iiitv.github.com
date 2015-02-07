@@ -3,7 +3,7 @@ description: Blog maintained by IIITV students
 meta_description: "Blog maintained by IIITV students"
 
 markdown: redcarpet
-highlighter: rouge
+highlighter: null
 logo: false
 paginate: 15
 baseurl: /
